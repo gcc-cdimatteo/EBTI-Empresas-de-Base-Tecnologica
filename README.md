@@ -1,5 +1,5 @@
 # subject-template
-Repositorio de material para [subject] ([dpt].[sub]), AAAACN, Facultad de Ingeniería de la Universidad de Buenos Aires
+Repositorio de material para Empresas de Base Tecnológica (EBTI), 2023C2, Facultad de Ingeniería de la Universidad de Buenos Aires
 
 ## Links
 []()
