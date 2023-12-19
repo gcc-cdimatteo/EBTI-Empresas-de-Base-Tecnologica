@@ -4,4 +4,5 @@ Repositorio de material para Empresas de Base Tecnológica (EBTI), 2023C2, Facul
 ## Links
 []()
 
-## Agradecimientos
+## Colaboradores
+Mi mejor compañero, [@franorquera](https://github.com/franorquera) :) <3
